@@ -1,0 +1,16 @@
+.example-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .mat-table {
+    overflow: auto;
+    
+  }
+  
+  .mat-header-cell.mat-sort-header-sorted {
+    color: black;
+  }
+
